@@ -17,5 +17,5 @@ module purge # clear any inherited modules
 set -o errexit # exit on errors
 
 module load R/3.4.4
-Rscript dada2algorR2fw.R
+Rscript dada2algor.R
 
