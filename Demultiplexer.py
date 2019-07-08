@@ -29,6 +29,8 @@ to the first 4 from R2.
 ###############################################################
 
 VERSION = 3.0 - 30 jun 2019
+
+TODO: It would be nice if an output file would be created showing some statistics of the processed sequences.
 """
 # imports
 # > Regex is used to search a small string inside a string
